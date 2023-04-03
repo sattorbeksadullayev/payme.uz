@@ -4,7 +4,7 @@
 * Dasturchi: Sattorbek Sag`dullayev.
 * Dasturlash tili: php (asosan: 7.4+ versiya)
 * Tuzilgan sana: 02.04.2023 (Oʻzbekiston vaqti bilan: 11:00AM);
-* Ishlatish boʻyicha qoʻllanma: readme.txt
+* Ishlatish boʻyicha qoʻllanma: example.php
 * 🛑 Mualliflik huquqi mavjud (OʻzRes Kon 38-modda)
 **/
 
